@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: o;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -49,13 +49,28 @@
 .sostenibilità {
     display: inline-block;
     position: absolute;
-    top: 460;
+    top: 460px;
+    left: 35px;
     width: 70px;
     height: 25px;
     background: rgb(65, 141, 125);
     color: white;
     text-align: center;
+    vertical-align: middle;
 }
+
+.sostenibilità2 {
+    display: inline-block;
+    position: absolute;
+    top: 460px;
+    width: 70px;
+    height: 25px;
+    background: rgb(65, 141, 125);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
 
 /* Modello1 */
 .modello1 {
